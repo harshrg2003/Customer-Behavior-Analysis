@@ -2,10 +2,10 @@
 
 ## 📌 **Overview**
 
-This project analyzes customer shopping behavior for a retail business using Python, SQL (PostgreSQL), and Power BI.
-The goal is to understand how customer demographics, discounts, subscriptions, and product categories influence purchasing decisions and long-term loyalty.
+This project analyzes **customer shopping behavior for a retail business** using **Python, SQL (specifically PostgreSQL), and Power BI.**
+The **goal** is to understand **how customer demographics, discounts, subscriptions, and product categories** influence **purchasing decisions and long-term loyalty**.
 
-The project follows an end-to-end analytics workflow — from raw data cleaning and exploratory analysis in Python to business insights via SQL queries and an interactive Power BI dashboard.
+The project follows an **end-to-end analytics workflow — from raw data cleaning and exploratory analysis in Python to business insights via SQL queries and an interactive Power BI dashboard**.
 
 ## 📂 **Dataset**
 
